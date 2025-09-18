@@ -28,7 +28,8 @@ print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-![WhatsApp Image 2025-09-18 at 20 30 10_9cc29a19](https://github.com/user-attachments/assets/9c540aff-c6c9-494b-93f6-ad9ca1b1ab61)
+![DC EXP2](https://github.com/user-attachments/assets/ca0d7960-d471-46b0-8c7a-bd06d21b3c6d)
+
 
 # Output
 ![WhatsApp Image 2025-09-18 at 20 30 10_9cc29a19](https://github.com/user-attachments/assets/58007167-b883-4db4-a316-822889834f06)
