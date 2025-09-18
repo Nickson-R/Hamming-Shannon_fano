@@ -28,9 +28,8 @@ print(f"Redundancy is : {red}")
 print(f"Variance is : {var}")
 ```
 # Calculation:
-```
-Compare the manually calculated value and the observed practical value.
-```
+![WhatsApp Image 2025-09-18 at 20 30 10_9cc29a19](https://github.com/user-attachments/assets/9c540aff-c6c9-494b-93f6-ad9ca1b1ab61)
+
 # Output
 ![WhatsApp Image 2025-09-18 at 20 30 10_9cc29a19](https://github.com/user-attachments/assets/58007167-b883-4db4-a316-822889834f06)
 
